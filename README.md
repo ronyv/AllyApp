@@ -3,6 +3,10 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ronyv/AllyApp)
 
+## Screenshot
+
+<img width="473" alt="Screenshot 2021-08-15 at 9 11 30 PM" src="https://user-images.githubusercontent.com/15177814/129484152-6dad666b-2b47-4a81-af3f-7612fb654046.png">
+
 ## Features
 
 - Fetch data from `https://okrcentral.github.io/sample-okrs/db.json`
